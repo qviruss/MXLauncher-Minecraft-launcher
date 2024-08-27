@@ -4,5 +4,5 @@ It's NOT a virus, it's actually real Minecraft launcher that you can try for fre
 # Download link (Google Drive):
 https://drive.google.com/drive/folders/1FzlEmy1KKdGh-7IgfH-530V3gs6GBM7L
 
-# Some info for you, read this please
+# Some info for you, read this please.
 I will write in my repos when there is a virus, so, don't worry.
